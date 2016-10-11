@@ -1,4 +1,11 @@
+
 h1 {
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+	font-size: 49px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 44px;
   text-align: center;
 }
 
