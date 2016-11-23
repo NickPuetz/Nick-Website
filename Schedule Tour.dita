@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_qnr_zyw_1y">
+    <title>How to Schedule a House Tour</title>
+    <shortdesc>To view any rental property or property for sale, follow these steps</shortdesc>
+    <taskbody>
+        <context>
+            <p>If you are interested in viewing any property that we currently own, please let us
+                know. All of our current properties are listed under the Current Properties tab on
+                our website</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Determine your current monthly housing budget</cmd>
+            </step>
+            <step>
+                <cmd>Determine if you are looking to buy or rent a house.  If you are unsure, we can
+                    help</cmd>
+            </step>
+            <step>
+                <cmd>Browse our current properties to see if any catch your eye</cmd>
+            </step>
+            <step>
+                <cmd>Contact us to schedule an appointment<xref
+                        href="Contact%20Info.dita#concept_gy2_wcx_1y"/></cmd>
+            </step>
+            <step>
+                <cmd>Meet us at a time that works for you to view the property</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
