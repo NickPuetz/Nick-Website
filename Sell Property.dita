@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_tfs_pcx_1y">
+    <title>How to Sell Your Property</title>
+    <shortdesc>If you are interested in selling your property, please follow these steps</shortdesc>
+    <taskbody>
+        <context>
+            <p>These steps inform you of how to sell a property that you currently own</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Contact us using the following phone number or email address to talk about the
+                    property.  Be ready with all of the current and up-to-date information relating
+                    to the property<xref href="Contact%20Info.dita#concept_gy2_wcx_1y"/></cmd>
+            </step>
+            <step>
+                <cmd>Take pictures and email them to us at the email provided below<xref
+                        href="Contact%20Info.dita#concept_gy2_wcx_1y"/></cmd>
+            </step>
+            <step>
+                <cmd>After no more than one week, we will contact you to either make an offer or to
+                    obtain more information</cmd>
+            </step>
+            <step>
+                <cmd>If we are able to agree on a sale price, we will then create the formal
+                    contract of sale</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
